@@ -60,6 +60,44 @@ Model performance was examined using:
 
 Multiple validation approaches were used to examine predictive performance under different evaluation settings.
 
+
+---
+
+## Project Visualizations
+
+### 1. Dataset Overview
+
+Initial exploration of the retail transaction dataset, including its structure and sample observations.
+
+![Dataset Overview](images/01_dataset_overview.png)
+
+### 2. Sales Distribution
+
+Visual analysis of the distribution of sales across retail transactions.
+
+![Sales Distribution](images/02_sales_distribution.png)
+
+### 3. Sales Insights
+
+Exploration of sales performance across product categories and geographic regions.
+
+![Sales Insights](images/03_sales_insights.png)
+
+### 4. Model Evaluation
+
+Evaluation of the KNN regression model using the selected validation approaches.
+
+![Model Evaluation](images/04_model_evaluation.png)
+
+### 5. Prediction Analysis
+
+Visual assessment of the relationship between actual and predicted sales.
+
+![Prediction Analysis](images/05_prediction_analysis.png)
+
+---
+
+
 ## Repository Contents
 
 | File | Description |
