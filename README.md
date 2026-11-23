@@ -81,19 +81,20 @@ Visual analysis of the distribution of sales across retail transactions.
 
 Exploration of sales performance across product categories and geographic regions.
 
-![Sales Insights](images/03_sales_insights.png)
-
+![Sales Insights](images/03_sales_insights_1.png)
+![Sales Insights](images/04_sales_insights_2.png)
+![Sales Insights](images/05_sales_insights_3.png)
 ### 4. Model Evaluation
 
 Evaluation of the KNN regression model using the selected validation approaches.
 
-![Model Evaluation](images/04_model_evaluation.png)
+![Model Evaluation](images/06_model_evaluation.png)
 
 ### 5. Prediction Analysis
 
 Visual assessment of the relationship between actual and predicted sales.
 
-![Prediction Analysis](images/05_prediction_analysis.png)
+![Prediction Analysis](images/07_prediction_analysis.png)
 
 ---
 
