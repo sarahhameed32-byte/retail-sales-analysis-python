@@ -103,9 +103,9 @@ Visual assessment of the relationship between actual and predicted sales.
 
 | File | Description |
 |---|---|
-| `Retail_Sales_Analysis.ipynb` | Complete Python analysis and modelling notebook |
+| `Superstore_Sales_Regression.ipynb` | Complete Python analysis and modelling notebook |
 | `Superstore.csv` | Retail transaction dataset |
-| `Retail_Sales_Analysis_Documentation.pdf` | Project documentation and methodology |
+| `Project_Documentation.pdf` | Project documentation and methodology |
 
 ## How to Run
 
